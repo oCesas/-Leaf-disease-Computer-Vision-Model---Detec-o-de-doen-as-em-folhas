@@ -188,4 +188,3 @@ EROSAO_BORDAS = 2                     # Pixels de erosão (0-5)
 ## 📚 Referências
 - [Digital Image Processing - Gonzalez & Woods](https://www.imageprocessingplace.com/)
 - [Computer Vision: Algorithms and Applications - Szeliski](https://szeliski.org/Book/)
-- [Precision Agriculture Resources](https://www.ispag.org/)
