@@ -19,7 +19,6 @@ Sistema automatizado para detecção e análise de fungos em imagens de folhas u
 ##  Características
 
 -  **Segmentação baseada em ExG** - Índice de excesso de verde
--  **Operações morfológicas manuais** - Implementação do zero em NumPy
 -  **Análise de textura multiescala** - Múltiplos tamanhos de janela
 -  **Processamento paralelo** - Análise rápida usando múltiplos cores
 -  **Visualizações informativas** - 3 plots (Original, Máscara, Detecção)
